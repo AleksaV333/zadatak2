@@ -1,7 +1,7 @@
 <template>
     <q-page>
       <q-banner class="bg-primary text-white">
-        <q-icon name="announcment" />
+        <q-icon name="announcement" />
         <h1>Unos stranica</h1>
       </q-banner>
     </q-page>
@@ -14,4 +14,10 @@
   </script>
   
   <style scoped>
-  </style>
+  .q-banner {
+    padding: 18px;
+  }
+  h1 {
+    font-size: 24px;
+    margin-left: 10px;
+  }
