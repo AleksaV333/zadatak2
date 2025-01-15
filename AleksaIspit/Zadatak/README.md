@@ -5,4 +5,4 @@ npm init quasar  - Kreiranje novog quasar projekta
 quasar dev - provjeravam da li se sacuvala promjena logoa
 git add . 
 git commit - m "PROMJENA"
-git push origin main
+git push https://github.com/AleksaV333/zadatak2
